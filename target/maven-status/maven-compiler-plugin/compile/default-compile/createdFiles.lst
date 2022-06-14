@@ -1,0 +1,6 @@
+io/pratik/springcloudsqs/MessageSender.class
+io/pratik/springcloudsqs/MessageReceiver.class
+io/pratik/springcloudsqs/CustomSqsConfiguration.class
+io/pratik/springcloudsqs/models/SignupEvent.class
+io/pratik/springcloudsqs/MessageSenderWithTemplate.class
+io/pratik/springcloudsqs/SpringcloudsqsApplication.class

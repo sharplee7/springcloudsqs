@@ -1,0 +1,6 @@
+/Users/euideok/Documents/workspace/code-examples/aws/springcloudsqs/src/main/java/io/pratik/springcloudsqs/models/SignupEvent.java
+/Users/euideok/Documents/workspace/code-examples/aws/springcloudsqs/src/main/java/io/pratik/springcloudsqs/MessageSenderWithTemplate.java
+/Users/euideok/Documents/workspace/code-examples/aws/springcloudsqs/src/main/java/io/pratik/springcloudsqs/MessageSender.java
+/Users/euideok/Documents/workspace/code-examples/aws/springcloudsqs/src/main/java/io/pratik/springcloudsqs/CustomSqsConfiguration.java
+/Users/euideok/Documents/workspace/code-examples/aws/springcloudsqs/src/main/java/io/pratik/springcloudsqs/SpringcloudsqsApplication.java
+/Users/euideok/Documents/workspace/code-examples/aws/springcloudsqs/src/main/java/io/pratik/springcloudsqs/MessageReceiver.java
